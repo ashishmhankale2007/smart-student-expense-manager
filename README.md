@@ -1,3 +1,4 @@
+Complete Smart Student Expense Manager project
 # Smart Student Expense Manager – Python Mini Project
 
 ## Project Overview
